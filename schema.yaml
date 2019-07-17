@@ -1,0 +1,11 @@
+metadata:
+  name: appleton12yr
+  barname: kitchen
+  labels:
+    category: rum
+    type: liquor
+spec:
+  filllevel: 50
+  maker: Appleton
+  product: Estate 12 Year
+  description: Funky Rum

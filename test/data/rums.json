@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "name": "appleton-signature",
+    "barname": "kitchen",
+    "labels": {
+      "category": "rum",
+      "type": "liquor"
+    }
+  },
+  "spec": {
+    "filllevel": 50,
+    "maker": "Appleton",
+    "product": "Estate Signature",
+    "description": "Funky Rum"
+  }
+}
